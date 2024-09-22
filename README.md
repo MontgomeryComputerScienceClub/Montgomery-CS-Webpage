@@ -12,6 +12,6 @@ Monty CSC also hosts events including MontyHacks, and prepares students for the 
 To join, fill out this [google form](https://forms.gle/HvYdk998iZ3sim5y7).
 
 Here's our linktree: [linktr.ee/montycompsci](https://linktr.ee/montycompsci)\
-Follow us on instagram: [@montycompsci](https://www.instagram.com/montycompsci)\
+Follow us on instagram: [@montycompsci](https://www.instagram.com/montycompsci)
 
 Hope to see you in school!
